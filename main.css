@@ -6,3 +6,7 @@
 .container {
   margin-top: 5em;
 }
+
+.carousel-item img {
+  height: 20em;
+}
