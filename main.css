@@ -14,9 +14,9 @@
 }
 
 #carouselExampleControls>div>a>span {
-  height: 2em;
-  width: 2em;
-  background-color: white;
+  height: 1.8em;
+  width: 1.8em;
+  background-color: grey;
   border-radius: 1em;
 }
 
