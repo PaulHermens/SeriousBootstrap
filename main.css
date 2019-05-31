@@ -13,3 +13,8 @@
   max-width: 100%;
   margin-right: auto;
 }
+
+#carouselExampleControls>div>a>span {
+  height: 1em;
+  width: 1em;
+}
