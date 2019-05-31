@@ -5,7 +5,7 @@
 
 nav {
   height: 100px;
-  padding: 8px 30px;
+  padding: 1rem 2rem !important;
 }
 
 .container {
