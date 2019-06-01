@@ -3,6 +3,10 @@
 	margin-right: auto;
 }
 
+.nav-link {
+	margin: auto;
+}
+
 nav {
 	min-height: 6.5rem;
 	padding: 0.8rem 2rem !important;
